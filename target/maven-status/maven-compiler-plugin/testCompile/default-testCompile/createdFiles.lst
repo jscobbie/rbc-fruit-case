@@ -1,0 +1,4 @@
+com\rbc\fruitcase\test\TestCABasketPricer.class
+com\rbc\fruitcase\pricing\MockPriceList.class
+com\rbc\fruitcase\data\MockProductStore.class
+com\rbc\fruitcase\test\TestBasketPricer.class

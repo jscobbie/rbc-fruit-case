@@ -1,0 +1,8 @@
+com\rbc\fruitcase\data\Product.class
+com\rbc\fruitcase\data\ProductImpl.class
+com\rbc\fruitcase\pricing\PriceList.class
+com\rbc\fruitcase\data\ProductStore.class
+com\rbc\fruitcase\data\Basket.class
+com\rbc\fruitcase\pricing\Pricer.class
+com\rbc\fruitcase\pricing\PricerImpl.class
+com\rbc\fruitcase\pricing\Cost.class
